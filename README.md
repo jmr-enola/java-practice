@@ -1,2 +1,2 @@
 # java-practice
-Practice Progam Challenges in Java
+Practice Program Challenges in Java
